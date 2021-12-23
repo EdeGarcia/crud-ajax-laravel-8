@@ -1,0 +1,1 @@
+https://www.devopsschool.com/blog/simple-ajax-crud-application-in-laravel/
